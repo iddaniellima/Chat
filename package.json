@@ -1,0 +1,24 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Chat em Node.JS e Socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iddaniellima/Chat.git"
+  },
+  "author": "Daniel Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iddaniellima/Chat/issues"
+  },
+  "homepage": "https://github.com/iddaniellima/Chat#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
